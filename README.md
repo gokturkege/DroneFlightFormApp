@@ -124,6 +124,14 @@ cd DroneFlightFormApp
 # Gerekli paketleri yükle
 npm install
 
+# Aşağıdaki önemli kütüphaneler de yüklü olmalı, yoksa ekleyin:
+npm install @react-navigation/native
+npm install @react-navigation/native-stack
+npm install react-native-screens react-native-safe-area-context
+npm install @react-native-picker/picker
+npm install @react-native-community/datetimepicker
+npm install @react-native-async-storage/async-storage
+
 # Uygulamayı çalıştır
 npm start
 
