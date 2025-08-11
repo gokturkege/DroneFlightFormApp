@@ -1,4 +1,4 @@
-# 🚀 DroneFlightFormApp
+#  DroneFlightFormApp
 
 **DroneFlightFormApp**, drone uçuş bilgilerini kaydetmek, geçmiş kayıtları görüntülemek ve yönetmek için geliştirilmiş bir mobil uygulamadır.  
 Uygulama **React Native** ile geliştirilmiş frontend ve **Node.js + Express.js + MongoDB (Docker)** tabanlı backend’den oluşur.
@@ -150,7 +150,7 @@ npm run android
 
 ---
 
-## 🌐 API Endpointleri
+##  API Endpointleri
 | Method | Endpoint      | Açıklama                  |
 |--------|--------------|---------------------------|
 | GET    | /records     | Tüm uçuş kayıtlarını getir |
