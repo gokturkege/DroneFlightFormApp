@@ -171,7 +171,6 @@ npm run android
 ---
 
 ## 🖼 Ekran Görselleri
-> Buraya proje ekran görüntülerini ekleyebilirsiniz:
 ```
 ![Ana Ekran](docs/anaekran.png)
 ![Form Ekranı](docs/form-ekrani1.png)
